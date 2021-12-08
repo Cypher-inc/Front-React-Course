@@ -1,0 +1,11 @@
+git clone
+ls
+git status
+git add . 
+git commit -m "msg"
+git status
+git push
+git status
+
+
+browser-sync start --server --directory --files "**/*"
