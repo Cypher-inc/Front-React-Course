@@ -7,5 +7,7 @@ git status
 git push
 git status
 
+git push origin master
+git push -f origin master
 
 browser-sync start --server --directory --files "**/*"
